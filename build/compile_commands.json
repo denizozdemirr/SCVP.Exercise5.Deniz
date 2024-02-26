@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/deniz/github cloned/SCVP.Exercise5/build",
+  "command": "/usr/bin/g++  -I/opt/systemc/include -g -o CMakeFiles/exercise5.dir/main.cpp.o -c \"/home/deniz/github cloned/SCVP.Exercise5/main.cpp\"",
+  "file": "/home/deniz/github cloned/SCVP.Exercise5/main.cpp"
+},
+{
+  "directory": "/home/deniz/github cloned/SCVP.Exercise5/build",
+  "command": "/usr/bin/g++  -I/opt/systemc/include -g -o CMakeFiles/exercise5.dir/kpn.cpp.o -c \"/home/deniz/github cloned/SCVP.Exercise5/kpn.cpp\"",
+  "file": "/home/deniz/github cloned/SCVP.Exercise5/kpn.cpp"
+}
+]
